@@ -1,0 +1,17 @@
+{
+  "name": "ejercicio_registrar_estudiantes",
+  "version": "1.0.0",
+  "description": "Actualizamos el ejercicio ya resulto para subirlo a GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "exerciseGitHubConnection"
+  ],
+  "author": "Barrionuevo Natanael",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
